@@ -1,0 +1,7 @@
+<div id="footer">
+<p>&copy; Battersea Back Clinic | <a href="/terms/index.html">Terms &amp; Conditions</a> | X-ray facilities</p>
+<p>4 Ransomes Dock, 35-37 Parkgate Road, London SW11 4NP <a href="http://www.multimap.com/map/browse.cgi?lat=51.479&amp;lon=-0.168&amp;scale=10000&amp;icon=x">(map)</a> | Tel: 020 7223 7223</p>
+<p><a href="http://www.gcc-uk.org/">General Chiropractic Council</a> Registered | Member of the <a href="http://www.chiropractic-uk.co.uk/">British Chiropractic Association</a> | <a href="http://www.bupa.co.uk/">BUPA</a> + <a href="http://www.axappphealthcare.co.uk/">PPP</a> Registered Providers</p>
+<h4>All exercises and advice found on this website are to be carried out only under the instruction of your chiropractor</h4>
+<p>Designed by <a href="http://www.sndesign.co.uk/">Shireen Nathoo Design</a> | Made by <a href="http://www.chimpfactory.com/">Matthew Gilbert</a> | Valid <a href="http://validator.w3.org/check?uri=referer">Xhtml 1.1</a></p>
+</div>

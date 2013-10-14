@@ -1,0 +1,19 @@
+
+#aboutus  { color: white; background-color: #317778; text-align: center; list-style-type: none; display: table-cell; margin: 0; padding: 0; width: 140px }
+#aboutus a   { color: #317778; text-decoration: none; background-color: white; text-align: center; display: block; margin: 0; padding: 5px 0; border-style: solid; border-width: 0 1px 0 0; border-color: #317778 }
+#aboutus a:hover { color: #317778; text-decoration: none; background-color: #9ee0e0; text-align: center; display: block; margin: 0; padding: 5px 0 }
+#care  { color: white; background-color: #317778; text-align: center; list-style-type: none; display: table-cell; margin: 0; padding: 0; width: 140px }
+#care a   { color: #317778; text-decoration: none; background-color: white; text-align: center; display: block; margin: 0; padding: 5px 0; border-style: solid; border-width: 0 1px 0 0; border-color: #317778 }
+#care a:hover { color: #317778; text-decoration: none; background-color: #9ee0e0; text-align: center; display: block; margin: 0; padding: 5px 0 }
+#contact   { color: white; background-color: #317778; text-align: center; list-style-type: none; display: table-cell; margin: 0; padding: 0; width: 140px }
+#contact a { color: #317778; text-decoration: none; background-color: white; text-align: center; display: block; margin: 0; padding: 5px 0; border: solid 0 }
+#contact a:hover { color: #317778; text-decoration: none; background-color: #9ee0e0; text-align: center; display: block; margin: 0; padding: 5px 0 }
+#exercises  { color: white; background-color: #317778; text-align: center; list-style-type: none; display: table-cell; margin: 0; padding: 0; width: 140px }
+#exercises a   { color: #317778; text-decoration: none; background-color: white; text-align: center; display: block; margin: 0; padding: 5px 0; border-style: solid; border-width: 0 1px 0 0; border-color: #317778 }
+#exercises a:hover { color: #317778; text-decoration: none; background-color: #9ee0e0; text-align: center; display: block; margin: 0; padding: 5px 0 }
+#home   { color: white; background-color: #317778; text-align: center; list-style-type: none; display: table-cell; margin: 0; padding: 0; width: 140px }
+#home a   { color: #317778; text-decoration: none; background-color: white; text-align: center; display: block; margin: 0; padding: 5px 0; border-style: solid; border-width: 0 1px 0 0; border-color: #317778 }
+#home a:hover { color: #317778; text-decoration: none; background-color: #9ee0e0; text-align: center; display: block; margin: 0; padding: 5px 0 }
+#problems  { color: white; background-color: #317778; text-align: center; list-style-type: none; display: table-cell; margin: 0; padding: 0; width: 140px }
+#problems a   { color: #317778; text-decoration: none; background-color: white; text-align: center; display: block; margin: 0; padding: 5px 0; border-style: solid; border-width: 0 1px 0 0; border-color: #317778 }
+#problems a:hover { color: #317778; text-decoration: none; background-color: #9ee0e0; text-align: center; display: block; margin: 0; padding: 5px 0 }
